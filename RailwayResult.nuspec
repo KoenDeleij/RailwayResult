@@ -12,7 +12,7 @@
     </metadata>
 
     <files>
-        <file src="RailwayResult/bin/##buildtype##/netstandard1.6/*" target="lib/netstandard1.6/" />
+        <file src="RailwayResult/bin/##buildtype##/netstandard1.1/*" target="lib/netstandard1.1/" />
     </files>
   </package>
 
